@@ -75,7 +75,7 @@ proto-plus==1.25.0
 protobuf==5.29.2
 psutil==6.1.1
 psycopg==3.2.3
-psycopg2==2.9.10
+psycopg2-binary
 pure_eval==0.2.3
 pyarrow==18.1.0
 pyasn1==0.6.1
@@ -121,5 +121,5 @@ uritemplate==4.1.1
 urllib3==2.3.0
 watchdog==6.0.0
 wcwidth==0.2.13
-psycopg2-binary
+
 
